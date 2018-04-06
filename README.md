@@ -65,6 +65,7 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 
 ## Examples
 
+* Artificial Intelligence Talks: [Traffic Cams & Self Organizing Maps](https://youtu.be/Cm_oAaQVWZ8?t=5m14s) || [Utah Accident Prediction](https://youtu.be/aKq50YM8a8w?t=3m11s)
 * [Explore Indoors](https://mpayson.github.io/partner-pocs/indoor-reality/index.html)
 * [LA Visitor Demographics](https://mpayson.github.io/partner-pocs/safegraph/index.html)
 * [Explore buildings in NYC](https://esri.github.io/Manhattan-skyscraper-explorer/)
