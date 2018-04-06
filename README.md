@@ -65,9 +65,8 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 
 ## Examples
 
-* [Visualize the US River Network](https://github.com/richiecarmichael/Esri-Hydro-Hierarchy)
-* [Baltimore Flood Explorer](https://maps.esri.com/rc/water/index.html)
-* [Esri + PubNub delivery tracking demo](https://github.com/Esri/pubnub-delivery-tracking-demo)
+* [Explore Indoors](https://mpayson.github.io/partner-pocs/indoor-reality/index.html)
+* [Vistor Demographics](https://mpayson.github.io/partner-pocs/safegraph/index.html)
 * [Explore buildings in NYC](https://esri.github.io/Manhattan-skyscraper-explorer/)
-* [SF urban growth and demographics](https://coolmaps.esri.com/#5)
+* [San Francisco Crime](https://coolmaps.esri.com/#4)
 * [Urban planning with the City of Philadelphia](https://www.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=86f88285788a4c53bd3d5dde6b315dfe)
