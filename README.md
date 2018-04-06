@@ -7,8 +7,9 @@
 * Languages: [JavaScript](https://developers.arcgis.com/javascript/) || [Python](https://developers.arcgis.com/python/) || [iOS](https://developers.arcgis.com/ios/latest/) || [Android](https://developers.arcgis.com/android/latest/) || [Node](https://github.com/esri/arcgis-rest-js) || [REST](https://developers.arcgis.com/rest/) || [Other](https://developers.arcgis.com/documentation/)
 * Other: [Create proxy](https://developers.arcgis.com/documentation/core-concepts/security-and-authentication/working-with-proxies/) (avoid auth--it's a hackathon!)
 
-## [Data](http://www.arcgis.com/features/maps/index.html)
+## Data
 
+* *[About](http://www.arcgis.com/features/maps/index.html)*
 * 3D Buildings ([explore](https://www.arcgis.com/home/webscene/viewer.html?webscene=08409d3e2d8543ca81217a88f428a502)): [New York City](https://tiles.arcgis.com/tiles/V6ZHFr6zdgNZuVG0/arcgis/rest/services/NYCatt/SceneServer) || [Berlin](https://tiles.arcgis.com/tiles/P3ePLMYs2RVChkJx/arcgis/rest/services/Buildings_Berlin/SceneServer) || [Philadelphia](http://scenesampleserverdev.arcgis.com/arcgis/rest/services/Hosted/Buildings_Philadelphia/SceneServer) || [Valencia](https://services1.arcgis.com/YFraetVkEAF1lMag/arcgis/rest/services/Valencia_3D_v2_local/SceneServer)
 * Open Data Portals: [ArcGIS Open Data](http://hub.arcgis.com/pages/open-data) || [ArcGIS Living Atlas](https://livingatlas.arcgis.com/en/) || [Los Angeles Hub](http://geohub.lacity.org/)
 * [Fetch Demographic Data](https://developers.arcgis.com/features/demographics/)
