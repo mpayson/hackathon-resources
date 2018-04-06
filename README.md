@@ -66,7 +66,7 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 ## Examples
 
 * [Explore Indoors](https://mpayson.github.io/partner-pocs/indoor-reality/index.html)
-* [Vistor Demographics](https://mpayson.github.io/partner-pocs/safegraph/index.html)
+* [LA Visitor Demographics](https://mpayson.github.io/partner-pocs/safegraph/index.html)
 * [Explore buildings in NYC](https://esri.github.io/Manhattan-skyscraper-explorer/)
 * [San Francisco Crime](https://coolmaps.esri.com/#4)
 * [Urban planning with the City of Philadelphia](https://www.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=86f88285788a4c53bd3d5dde6b315dfe)
