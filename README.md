@@ -17,12 +17,17 @@
 
 ***Note**: The [DevLabs](https://developers.arcgis.com/labs/) are the best place to start ([JS](https://developers.arcgis.com/labs/browse/?topic=any&product=JavaScript) || [Python](https://developers.arcgis.com/labs/browse/?topic=any&product=Python) || [iOS](https://developers.arcgis.com/labs/browse/?topic=any&product=iOS) || [Android](https://developers.arcgis.com/labs/browse/?topic=any&product=Android) || [REST](https://developers.arcgis.com/labs/browse/?topic=any&product=REST-API) || [All](https://developers.arcgis.com/labs/browse/?))
 
-Design
+**Data**
+
+* Bulk geocode csv: [Python](https://github.com/mpayson/partner-python-tools/blob/master/bulk_ops/csv_geocode.ipynb) || [Node](https://github.com/Esri/arcgis-rest-js/tree/master/demos/batch-geocoder-node)
+* Upload & host csvs: [Python](https://github.com/mpayson/partner-python-tools/blob/master/bulk_ops/csv_upload.ipynb)
+
+**Design**
 
 * [Create 2d web map](https://developers.arcgis.com/labs/arcgisonline/create-a-web-map/): 2D portable abstraction of data and styles
 * [Create 3d web scene](https://developers.arcgis.com/labs/arcgisonline/create-a-web-scene/): 3D portable abstraction of data and styles
 
-Develop
+**Develop**
 
 * Add 2d Feature (vector) Layer: [JS](/samples/2dLayer.html) || [iOS](https://developers.arcgis.com/labs/ios/create-a-2d-map-with-a-layer/) || [Android](https://developers.arcgis.com/labs/android/create-a-2d-map-with-a-layer/)
 * Add 3d Layer: [JS](/samples/3dLayer.html) || [iOS](https://developers.arcgis.com/ios/latest/swift/sample-code/scene-layer-url-.htm) || [Android](https://developers.arcgis.com/android/latest/sample-code/scene-layer.htm)
