@@ -1,6 +1,24 @@
 # Hackathon Resources
 > Esri hackathon quick links
 
+_Also find Esri and OS projects on [Github](https://github.com/esri)!_
+
+## Contents
+
+* [Activate Account and Credits](#activate-account-and-credits)
+* [Get Started](#get-started)
+* [Data](#data)
+* [Workflows](#workflows)
+* [Libraries](#libraries)
+* [Cool Functionality](#cool-functionality)
+* [Examples](#examples)
+
+## Activate Account and Credits
+
+1. Sign-up for a free developer account at <http://developers.arcgis.com>
+2. Sign in to your account
+3. Click your name at the top right, click “Redeem Voucher”, then enter BITCAMP for 1000 credits
+
 ## Get Started
 
 * Overview: [What you can do](https://developers.arcgis.com/features/) || [Core concepts](https://developers.arcgis.com/documentation/) || [Quick start tutorials](https://developers.arcgis.com/labs/) || [Developers Website](https://developers.arcgis.com/)
@@ -47,3 +65,9 @@
 
 ## Examples
 
+* [Visualize the US River Network](https://github.com/richiecarmichael/Esri-Hydro-Hierarchy)
+* [Baltimore Flood Explorer](https://maps.esri.com/rc/water/index.html)
+* [Esri + PubNub delivery tracking demo](https://github.com/Esri/pubnub-delivery-tracking-demo)
+* [Explore buildings in NYC](https://esri.github.io/Manhattan-skyscraper-explorer/)
+* [SF urban growth and demographics](https://coolmaps.esri.com/#5)
+* [Urban planning with the City of Philadelphia](https://www.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=86f88285788a4c53bd3d5dde6b315dfe)
