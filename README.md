@@ -9,6 +9,7 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 * [Get Started](#get-started)
 * [Data](#data)
 * [Workflows](#workflows)
+* [Analysis](#analysis) <kbd>new!</kbd>
 * [Libraries](#libraries)
 * [Cool Functionality](#cool-functionality)
 * [Examples](#examples)
@@ -30,14 +31,14 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 * *[About](http://www.arcgis.com/features/maps/index.html)*
 * 3D Buildings ([explore](https://www.arcgis.com/home/webscene/viewer.html?webscene=08409d3e2d8543ca81217a88f428a502)): [New York City](https://tiles.arcgis.com/tiles/V6ZHFr6zdgNZuVG0/arcgis/rest/services/NYCatt/SceneServer) || [Berlin](https://tiles.arcgis.com/tiles/P3ePLMYs2RVChkJx/arcgis/rest/services/Buildings_Berlin/SceneServer) || [Philadelphia](http://scenesampleserverdev.arcgis.com/arcgis/rest/services/Hosted/Buildings_Philadelphia/SceneServer) || [Valencia](https://services1.arcgis.com/YFraetVkEAF1lMag/arcgis/rest/services/Valencia_3D_v2_local/SceneServer)
 * Open Data Portals: [ArcGIS Open Data](http://hub.arcgis.com/pages/open-data) || [ArcGIS Living Atlas](https://livingatlas.arcgis.com/en/) || [Los Angeles Hub](http://geohub.lacity.org/)
-* Common categories: [Disaster](http://hub.arcgis.com/datasets?q=Disaster) || [Weather](https://livingatlas.arcgis.com/en/browse/#s=0&q=weather) || [Crime](http://hub.arcgis.com/datasets?q=Crime) || [Sustainability](hub.arcgis.com/datasets?q=Sustainable)
+* Common categories: [Imagery](https://livingatlas.arcgis.com/en/browse/#s=0&q=landsat&md=imagery:11111) || [Disaster](http://hub.arcgis.com/datasets?q=Disaster) || [Weather](https://livingatlas.arcgis.com/en/browse/#s=0&q=weather) || [Crime](http://hub.arcgis.com/datasets?q=Crime) || [Sustainability](hub.arcgis.com/datasets?q=Sustainable) <kbd>new!</kbd>
 * [Fetch Demographic Data](https://developers.arcgis.com/features/demographics/)
 
 ## Workflows
 
 ***Note**: The [DevLabs](https://developers.arcgis.com/labs/) are the best place to start ([JS](https://developers.arcgis.com/labs/browse/?topic=any&product=JavaScript) || [Python](https://developers.arcgis.com/labs/browse/?topic=any&product=Python) || [iOS](https://developers.arcgis.com/labs/browse/?topic=any&product=iOS) || [Android](https://developers.arcgis.com/labs/browse/?topic=any&product=Android) || [REST](https://developers.arcgis.com/labs/browse/?topic=any&product=REST-API) || [All](https://developers.arcgis.com/labs/browse/?))
 
-### Data
+### Data Creation
 
 * Create new dataset: [With empty schema](https://developers.arcgis.com/labs/arcgisonline/create-a-new-dataset/) || [From file](https://developers.arcgis.com/labs/arcgisonline/import-data/) <kbd>new!</kbd>
 * Bulk geocode csv: [Python](https://github.com/mpayson/partner-python-tools/blob/master/bulk_ops/csv_geocode.ipynb) || [Node](https://github.com/Esri/arcgis-rest-js/tree/master/demos/batch-geocoder-node)
@@ -55,15 +56,16 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 * Apply Layer Edits: [JS](/samples/ApplyEdit.html) || [iOS](https://developers.arcgis.com/ios/latest/swift/guide/edit-features.htm) || [Android](https://developers.arcgis.com/android/latest/guide/edit-features.htm#ESRI_SECTION1_2A4C0222216A448C9CBAFCD0F75A21F6)
 * Route: [JS](/samples/Route.html) || [iOS](https://developers.arcgis.com/ios/latest/swift/guide/find-a-route.htm) || [Android](https://developers.arcgis.com/labs/android/display-a-route/)
 
+## Analysis
+
+* [Imagery Analytics with Python](https://developers.arcgis.com/python/guide/using-imagery-layers/)<kbd>new!</kbd>
+* [Trace Downstream](https://developers.arcgis.com/rest/elevation/api-reference/trace-downstream.htm)
+* [Evaluate Watersheds](https://developers.arcgis.com/rest/elevation/api-reference/watershed.htm)
+
 ## Libraries
 
 * [Koop](https://github.com/koopjs/koop): Translate, query, & integrate any geospatial API
 * [Teraformer](https://github.com/esri/Terraformer): Convert data between WKT, ArcGIS JSON, and GeoJSON
-
-## Cool Functionality
-
-* [Trace Downstream](https://developers.arcgis.com/rest/elevation/api-reference/trace-downstream.htm)
-* [Evaluate Watersheds](https://developers.arcgis.com/rest/elevation/api-reference/watershed.htm)
 
 ## Examples
 
