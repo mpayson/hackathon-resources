@@ -37,11 +37,12 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 
 ***Note**: The [DevLabs](https://developers.arcgis.com/labs/) are the best place to start ([JS](https://developers.arcgis.com/labs/browse/?topic=any&product=JavaScript) || [Python](https://developers.arcgis.com/labs/browse/?topic=any&product=Python) || [iOS](https://developers.arcgis.com/labs/browse/?topic=any&product=iOS) || [Android](https://developers.arcgis.com/labs/browse/?topic=any&product=Android) || [REST](https://developers.arcgis.com/labs/browse/?topic=any&product=REST-API) || [All](https://developers.arcgis.com/labs/browse/?))
 
-### Data Creation
+### Data Management
 
 * Create new dataset: [With empty schema](https://developers.arcgis.com/labs/arcgisonline/create-a-new-dataset/) || [From file](https://developers.arcgis.com/labs/arcgisonline/import-data/) <kbd>new!</kbd>
-* Bulk geocode csv: [Python](https://github.com/mpayson/partner-python-tools/blob/master/bulk_ops/csv_geocode.ipynb) || [Node](https://github.com/Esri/arcgis-rest-js/tree/master/demos/batch-geocoder-node)
 * Upload & host csvs: [Python](https://github.com/mpayson/partner-python-tools/blob/master/bulk_ops/csv_upload.ipynb)
+* Edit data in hosted services: [Python](https://github.com/mpayson/partner-python-tools/blob/master/bulk_ops/append_data.ipynb) <kbd>new!</kbd>
+* Bulk geocode csv: [Python](https://github.com/mpayson/partner-python-tools/blob/master/bulk_ops/csv_geocode.ipynb) || [Node](https://github.com/Esri/arcgis-rest-js/tree/master/demos/batch-geocoder-node)
 
 ### Design
 
