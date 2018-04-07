@@ -9,7 +9,7 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 * [Get Started](#get-started)
 * [Data](#data)
 * [Workflows](#workflows)
-* [Analytics](#analysis) <kbd>new!</kbd>
+* [Analytics](#analytics) <kbd>new!</kbd>
 * [Libraries](#libraries)
 * [Examples](#examples)
 
@@ -55,9 +55,9 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 * Apply Layer Edits: [JS](/samples/ApplyEdit.html) || [iOS](https://developers.arcgis.com/ios/latest/swift/guide/edit-features.htm) || [Android](https://developers.arcgis.com/android/latest/guide/edit-features.htm#ESRI_SECTION1_2A4C0222216A448C9CBAFCD0F75A21F6)
 * Route: [JS](/samples/Route.html) || [iOS](https://developers.arcgis.com/ios/latest/swift/guide/find-a-route.htm) || [Android](https://developers.arcgis.com/labs/android/display-a-route/)
 
-## Analysis
+## Analytics
 
-* [Imagery Analytics with Python]: [Image processing](https://developers.arcgis.com/python/guide/using-imagery-layers/) || [Feature extraction](https://developers.arcgis.com/python/sample-notebooks/counting-features-in-satellite-images-using-scikit-image/)<kbd>new!</kbd>
+* Imagery Analytics with Python: [Image processing](https://developers.arcgis.com/python/guide/using-imagery-layers/) || [Feature extraction](https://developers.arcgis.com/python/sample-notebooks/counting-features-in-satellite-images-using-scikit-image/)<kbd>new!</kbd>
 * [Trace Downstream](https://developers.arcgis.com/rest/elevation/api-reference/trace-downstream.htm)
 * [Evaluate Watersheds](https://developers.arcgis.com/rest/elevation/api-reference/watershed.htm)
 
