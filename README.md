@@ -38,6 +38,7 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 
 ### Data
 
+* [Create new dataset](https://developers.arcgis.com/labs/arcgisonline/create-a-new-dataset/)
 * Bulk geocode csv: [Python](https://github.com/mpayson/partner-python-tools/blob/master/bulk_ops/csv_geocode.ipynb) || [Node](https://github.com/Esri/arcgis-rest-js/tree/master/demos/batch-geocoder-node)
 * Upload & host csvs: [Python](https://github.com/mpayson/partner-python-tools/blob/master/bulk_ops/csv_upload.ipynb)
 
