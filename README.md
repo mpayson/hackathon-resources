@@ -11,7 +11,6 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 * [Workflows](#workflows)
 * [Analysis](#analysis) <kbd>new!</kbd>
 * [Libraries](#libraries)
-* [Cool Functionality](#cool-functionality)
 * [Examples](#examples)
 
 ## Activate Account and Credits
@@ -58,7 +57,7 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 
 ## Analysis
 
-* [Imagery Analytics with Python](https://developers.arcgis.com/python/guide/using-imagery-layers/)<kbd>new!</kbd>
+* [Imagery Analytics with Python](https://developers.arcgis.com/python/guide/using-imagery-layers/) <kbd>new!</kbd>
 * [Trace Downstream](https://developers.arcgis.com/rest/elevation/api-reference/trace-downstream.htm)
 * [Evaluate Watersheds](https://developers.arcgis.com/rest/elevation/api-reference/watershed.htm)
 
