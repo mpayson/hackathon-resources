@@ -9,7 +9,7 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 * [Get Started](#get-started)
 * [Data](#data)
 * [Workflows](#workflows)
-* [Analysis](#analysis) <kbd>new!</kbd>
+* [Analytics](#analysis) <kbd>new!</kbd>
 * [Libraries](#libraries)
 * [Examples](#examples)
 
@@ -57,7 +57,7 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 
 ## Analysis
 
-* [Imagery Analytics with Python](https://developers.arcgis.com/python/guide/using-imagery-layers/) <kbd>new!</kbd>
+* [Imagery Analytics with Python]: [Image processing](https://developers.arcgis.com/python/guide/using-imagery-layers/) || [Feature extraction](https://developers.arcgis.com/python/sample-notebooks/counting-features-in-satellite-images-using-scikit-image/)<kbd>new!</kbd>
 * [Trace Downstream](https://developers.arcgis.com/rest/elevation/api-reference/trace-downstream.htm)
 * [Evaluate Watersheds](https://developers.arcgis.com/rest/elevation/api-reference/watershed.htm)
 
