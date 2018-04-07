@@ -17,7 +17,7 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 
 1. Sign-up for a free developer account at <http://developers.arcgis.com>
 2. Sign in to your account
-3. Click your name at the top right, click “Redeem Voucher”, then enter BITCAMP for 1000 credits
+3. Click your name at the top right, click “Redeem Voucher”, then enter `BITCAMP` for 1000 credits
 
 ## Get Started
 
