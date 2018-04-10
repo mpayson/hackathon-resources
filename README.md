@@ -35,11 +35,11 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 
 ## Workflows
 
-***Note**: The [DevLabs](https://developers.arcgis.com/labs/) are the best place to start ([JS](https://developers.arcgis.com/labs/browse/?topic=any&product=JavaScript) || [Python](https://developers.arcgis.com/labs/browse/?topic=any&product=Python) || [iOS](https://developers.arcgis.com/labs/browse/?topic=any&product=iOS) || [Android](https://developers.arcgis.com/labs/browse/?topic=any&product=Android) || [REST](https://developers.arcgis.com/labs/browse/?topic=any&product=REST-API) || [All](https://developers.arcgis.com/labs/browse/?))
+_***Note**: The [DevLabs](https://developers.arcgis.com/labs/) are the best place to start ([JS](https://developers.arcgis.com/labs/browse/?topic=any&product=JavaScript) || [Python](https://developers.arcgis.com/labs/browse/?topic=any&product=Python) || [iOS](https://developers.arcgis.com/labs/browse/?topic=any&product=iOS) || [Android](https://developers.arcgis.com/labs/browse/?topic=any&product=Android) || [REST](https://developers.arcgis.com/labs/browse/?topic=any&product=REST-API) || [All](https://developers.arcgis.com/labs/browse/?))_
 
 ### Data Management
 
-**Note**: You can host your data in ArcGIS Online and access it through our APIs so you don't have to worry about a backend! In the mapping world, we refer to data as [`layers`](https://developers.arcgis.com/documentation/core-concepts/layers/). The most common layer is a Feature Layer data associated with point, line, and polygon geometries.
+_***Note**: You can host your data and access it through our APIs so you don't have to worry about a backend! We refer to data as [`layers`](https://developers.arcgis.com/documentation/core-concepts/layers/). The links below are for Feature Layers, a common layer used for data associated with point, line, and polygon geometries._
 
 * Create new table: [With empty schema](https://developers.arcgis.com/labs/arcgisonline/create-a-new-dataset/) || [From file](https://developers.arcgis.com/labs/arcgisonline/import-data/) <kbd>new!</kbd>
 * Upload & host csvs: [Python](https://github.com/mpayson/partner-python-tools/blob/master/bulk_ops/csv_upload.ipynb)
