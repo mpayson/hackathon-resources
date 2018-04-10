@@ -39,7 +39,7 @@ _***Note**: The [DevLabs](https://developers.arcgis.com/labs/) are the best plac
 
 ### Data Management
 
-_***Note**: You can host your data and access it through our APIs so you don't have to worry about a backend! We refer to data as [`layers`](https://developers.arcgis.com/documentation/core-concepts/layers/). The links below are for Feature Layers, a common layer used for data associated with point, line, and polygon geometries._
+_***Note**: ArcGIS can host your data and you can access it via our APIs so you don't have to worry about a backend! We refer to data as [`layers`](https://developers.arcgis.com/documentation/core-concepts/layers/). The links below are for Feature Layers, a common layer used for data associated with point, line, and polygon geometries._
 
 * Create new table: [With empty schema](https://developers.arcgis.com/labs/arcgisonline/create-a-new-dataset/) || [From file](https://developers.arcgis.com/labs/arcgisonline/import-data/) <kbd>new!</kbd>
 * Upload & host csvs: [Python](https://github.com/mpayson/partner-python-tools/blob/master/bulk_ops/csv_upload.ipynb)
