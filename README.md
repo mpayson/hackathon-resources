@@ -1,4 +1,5 @@
 # Hackathon Resources
+
 > Esri hackathon quick links
 
 _Also find Esri and OS projects on [Github](https://github.com/esri)!_
@@ -7,9 +8,9 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 
 * [Activate Account and Credits](#activate-account-and-credits)
 * [Get Started](#get-started)
-* [Data](#data)
 * [Workflows](#workflows)
-* [Analytics](#analytics) <kbd>new!</kbd>
+* [Analytics](#analytics)
+* [Hackable Data](#hackable-data)
 * [Libraries](#libraries)
 * [Examples](#examples)
 
@@ -25,14 +26,6 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 * Languages: [JavaScript](https://developers.arcgis.com/javascript/) || [Python](https://developers.arcgis.com/python/) || [iOS](https://developers.arcgis.com/ios/latest/) || [Android](https://developers.arcgis.com/android/latest/) || [Node](https://github.com/esri/arcgis-rest-js) || [REST](https://developers.arcgis.com/rest/) || [Other](https://developers.arcgis.com/documentation/)
 * Other: [Create proxy](https://developers.arcgis.com/documentation/core-concepts/security-and-authentication/working-with-proxies/) (avoid auth--it's a hackathon!)
 
-## Data
-
-* *[About](http://www.arcgis.com/features/maps/index.html)*
-* Open Data Portals: [ArcGIS Open Data](http://hub.arcgis.com/pages/open-data) || [ArcGIS Living Atlas](https://livingatlas.arcgis.com/en/) || [Los Angeles Hub](http://geohub.lacity.org/)
-* Common categories: [Imagery](https://livingatlas.arcgis.com/en/browse/#s=0&q=landsat&md=imagery:11111) || [Disaster](http://hub.arcgis.com/datasets?q=Disaster) || [Weather](https://livingatlas.arcgis.com/en/browse/#s=0&q=weather) || [Crime](http://hub.arcgis.com/datasets?q=Crime) || [Sustainability](hub.arcgis.com/datasets?q=Sustainable) <kbd>new!</kbd>
-* 3D Buildings ([explore](https://www.arcgis.com/home/webscene/viewer.html?webscene=08409d3e2d8543ca81217a88f428a502)): [New York City](https://tiles.arcgis.com/tiles/V6ZHFr6zdgNZuVG0/arcgis/rest/services/NYCatt/SceneServer) || [Berlin](https://tiles.arcgis.com/tiles/P3ePLMYs2RVChkJx/arcgis/rest/services/Buildings_Berlin/SceneServer) || [Philadelphia](http://scenesampleserverdev.arcgis.com/arcgis/rest/services/Hosted/Buildings_Philadelphia/SceneServer) || [Valencia](https://services1.arcgis.com/YFraetVkEAF1lMag/arcgis/rest/services/Valencia_3D_v2_local/SceneServer)
-* [Fetch Demographic Data](https://developers.arcgis.com/features/demographics/)
-
 ## Workflows
 
 _***Note**: The [DevLabs](https://developers.arcgis.com/labs/) are the best place to start ([JS](https://developers.arcgis.com/labs/browse/?topic=any&product=JavaScript) || [Python](https://developers.arcgis.com/labs/browse/?topic=any&product=Python) || [iOS](https://developers.arcgis.com/labs/browse/?topic=any&product=iOS) || [Android](https://developers.arcgis.com/labs/browse/?topic=any&product=Android) || [REST](https://developers.arcgis.com/labs/browse/?topic=any&product=REST-API) || [All](https://developers.arcgis.com/labs/browse/?))_
@@ -41,9 +34,9 @@ _***Note**: The [DevLabs](https://developers.arcgis.com/labs/) are the best plac
 
 _***Note**: ArcGIS can host your data and you can access it via our APIs so you don't have to worry about a backend! We refer to data as [`layers`](https://developers.arcgis.com/documentation/core-concepts/layers/). The links below are for Feature Layers, a common layer type used for data associated with point, line, and polygon geometries._
 
-* Create new table: [With empty schema](https://developers.arcgis.com/labs/arcgisonline/create-a-new-dataset/) || [From file](https://developers.arcgis.com/labs/arcgisonline/import-data/) <kbd>new!</kbd>
+* Create new table: [With empty schema](https://developers.arcgis.com/labs/arcgisonline/create-a-new-dataset/) || [From file](https://developers.arcgis.com/labs/arcgisonline/import-data/)
 * Upload & host csvs: [Python](https://github.com/mpayson/partner-python-tools/blob/master/bulk_ops/csv_upload.ipynb)
-* Edit data in hosted services: [Python](https://github.com/mpayson/partner-python-tools/blob/master/bulk_ops/append_data.ipynb) || [ArcGIS Online Viewer](http://doc.arcgis.com/en/arcgis-online/share-maps/manage-hosted-feature-layers.htm#ESRI_SECTION1_E2F5EF6240F246EBA5D238968B63BF97) <kbd>new!</kbd>
+* Edit data in hosted services: [Python](https://github.com/mpayson/partner-python-tools/blob/master/bulk_ops/append_data.ipynb) || [ArcGIS Online Viewer](http://doc.arcgis.com/en/arcgis-online/share-maps/manage-hosted-feature-layers.htm#ESRI_SECTION1_E2F5EF6240F246EBA5D238968B63BF97)
 * Bulk geocode csv: [Python](https://github.com/mpayson/partner-python-tools/blob/master/bulk_ops/csv_geocode.ipynb) || [Node](https://github.com/Esri/arcgis-rest-js/tree/master/demos/batch-geocoder-node)
 
 ### Design
@@ -58,9 +51,17 @@ _***Note**: ArcGIS can host your data and you can access it via our APIs so you 
 * Apply Layer Edits: [JS](/samples/ApplyEdit.html) || [iOS](https://developers.arcgis.com/ios/latest/swift/guide/edit-features.htm) || [Android](https://developers.arcgis.com/android/latest/guide/edit-features.htm#ESRI_SECTION1_2A4C0222216A448C9CBAFCD0F75A21F6)
 * Route: [JS](/samples/Route.html) || [iOS](https://developers.arcgis.com/ios/latest/swift/guide/find-a-route.htm) || [Android](https://developers.arcgis.com/labs/android/display-a-route/)
 
+## Hackable Data
+
+* *[About](http://www.arcgis.com/features/maps/index.html)*
+* Open Data Portals: [ArcGIS Open Data](http://hub.arcgis.com/pages/open-data) || [ArcGIS Living Atlas](https://livingatlas.arcgis.com/en/) || [Los Angeles Hub](http://geohub.lacity.org/)
+* Common categories: [Imagery](https://livingatlas.arcgis.com/en/browse/#s=0&q=landsat&md=imagery:11111) || [Disaster](http://hub.arcgis.com/datasets?q=Disaster) || [Weather](https://livingatlas.arcgis.com/en/browse/#s=0&q=weather) || [Crime](http://hub.arcgis.com/datasets?q=Crime) || [Sustainability](hub.arcgis.com/datasets?q=Sustainable)
+* 3D Buildings ([explore](https://www.arcgis.com/home/webscene/viewer.html?webscene=08409d3e2d8543ca81217a88f428a502)): [New York City](https://tiles.arcgis.com/tiles/V6ZHFr6zdgNZuVG0/arcgis/rest/services/NYCatt/SceneServer) || [Berlin](https://tiles.arcgis.com/tiles/P3ePLMYs2RVChkJx/arcgis/rest/services/Buildings_Berlin/SceneServer) || [Philadelphia](http://scenesampleserverdev.arcgis.com/arcgis/rest/services/Hosted/Buildings_Philadelphia/SceneServer) || [Valencia](https://services1.arcgis.com/YFraetVkEAF1lMag/arcgis/rest/services/Valencia_3D_v2_local/SceneServer)
+* [Fetch Demographic Data](https://developers.arcgis.com/features/demographics/)
+
 ## Analytics
 
-* Imagery Analytics with Python: [Image processing](https://developers.arcgis.com/python/guide/using-imagery-layers/) || [Feature extraction](https://developers.arcgis.com/python/sample-notebooks/counting-features-in-satellite-images-using-scikit-image/) <kbd>new!</kbd>
+* Imagery Analytics with Python: [Image processing](https://developers.arcgis.com/python/guide/using-imagery-layers/) || [Feature extraction](https://developers.arcgis.com/python/sample-notebooks/counting-features-in-satellite-images-using-scikit-image/)
 * [Trace Downstream](https://developers.arcgis.com/rest/elevation/api-reference/trace-downstream.htm)
 * [Evaluate Watersheds](https://developers.arcgis.com/rest/elevation/api-reference/watershed.htm)
 
