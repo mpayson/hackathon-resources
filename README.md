@@ -24,13 +24,13 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 
 * Overview: [What you can do](https://developers.arcgis.com/features/) || [Core concepts](https://developers.arcgis.com/documentation/) || [Quick start tutorials](https://developers.arcgis.com/labs/) || [Developers Website](https://developers.arcgis.com/)
 * Languages: [JavaScript](https://developers.arcgis.com/javascript/) || [Python](https://developers.arcgis.com/python/) || [iOS](https://developers.arcgis.com/ios/latest/) || [Android](https://developers.arcgis.com/android/latest/) || [Node](https://github.com/esri/arcgis-rest-js) || [REST](https://developers.arcgis.com/rest/) || [Other](https://developers.arcgis.com/documentation/)
-* Other: [Create proxy](https://developers.arcgis.com/documentation/core-concepts/security-and-authentication/working-with-proxies/) (avoid auth--it's a hackathon!)
+* Additional: [Create proxy](https://developers.arcgis.com/documentation/core-concepts/security-and-authentication/working-with-proxies/) (avoid auth--it's a hackathon!)
 
 ## Workflows
 
 ***Note**: The [DevLabs](https://developers.arcgis.com/labs/) are the best place to start, [JS](https://developers.arcgis.com/labs/browse/?topic=any&product=JavaScript) || [Python](https://developers.arcgis.com/labs/browse/?topic=any&product=Python) || [iOS](https://developers.arcgis.com/labs/browse/?topic=any&product=iOS) || [Android](https://developers.arcgis.com/labs/browse/?topic=any&product=Android) || [REST](https://developers.arcgis.com/labs/browse/?topic=any&product=REST-API) || [All](https://developers.arcgis.com/labs/browse/?)
 
-### Data Management
+### Data
 
 ***Note**: ArcGIS can host your data then you can access it via our APIs so you don't have to worry about a backend! We refer to data as [layers](https://developers.arcgis.com/documentation/core-concepts/layers/). The links below are for Feature Layers, a common layer type that represents a **table** with point, line, and polygon [geometries](https://developers.arcgis.com/documentation/core-concepts/features-and-geometries/).
 
