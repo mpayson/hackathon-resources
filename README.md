@@ -28,11 +28,11 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 
 ## Workflows
 
-_***Note**: The [DevLabs](https://developers.arcgis.com/labs/) are the best place to start, [JS](https://developers.arcgis.com/labs/browse/?topic=any&product=JavaScript) || [Python](https://developers.arcgis.com/labs/browse/?topic=any&product=Python) || [iOS](https://developers.arcgis.com/labs/browse/?topic=any&product=iOS) || [Android](https://developers.arcgis.com/labs/browse/?topic=any&product=Android) || [REST](https://developers.arcgis.com/labs/browse/?topic=any&product=REST-API) || [All](https://developers.arcgis.com/labs/browse/?)_
+***Note**: The [DevLabs](https://developers.arcgis.com/labs/) are the best place to start, [JS](https://developers.arcgis.com/labs/browse/?topic=any&product=JavaScript) || [Python](https://developers.arcgis.com/labs/browse/?topic=any&product=Python) || [iOS](https://developers.arcgis.com/labs/browse/?topic=any&product=iOS) || [Android](https://developers.arcgis.com/labs/browse/?topic=any&product=Android) || [REST](https://developers.arcgis.com/labs/browse/?topic=any&product=REST-API) || [All](https://developers.arcgis.com/labs/browse/?)
 
 ### Data Management
 
-ArcGIS can host your data then you can access it via our APIs so you don't have to worry about a backend! We refer to data as [layers](https://developers.arcgis.com/documentation/core-concepts/layers/). The links below are for Feature Layers, a common layer type that represents a **table** with point, line, and polygon [geometries](https://developers.arcgis.com/documentation/core-concepts/features-and-geometries/).
+***Note**: ArcGIS can host your data then you can access it via our APIs so you don't have to worry about a backend! We refer to data as [layers](https://developers.arcgis.com/documentation/core-concepts/layers/). The links below are for Feature Layers, a common layer type that represents a **table** with point, line, and polygon [geometries](https://developers.arcgis.com/documentation/core-concepts/features-and-geometries/).
 
 * Create new table: [With empty schema](https://developers.arcgis.com/labs/arcgisonline/create-a-new-dataset/) || [From file](https://developers.arcgis.com/labs/arcgisonline/import-data/)
 * Upload & host csvs: [Python](https://github.com/mpayson/partner-python-tools/blob/master/bulk_ops/csv_upload.ipynb)
