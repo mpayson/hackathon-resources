@@ -9,8 +9,8 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 * [Activate Account and Credits](#activate-account-and-credits)
 * [Get Started](#get-started)
 * [Workflows](#workflows)
-* [Analytics](#analytics)
 * [Hackable Data](#hackable-data)
+* [Analytics](#analytics)
 * [Libraries](#libraries)
 * [Examples](#examples)
 
@@ -28,11 +28,11 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 
 ## Workflows
 
-_***Note**: The [DevLabs](https://developers.arcgis.com/labs/) are the best place to start ([JS](https://developers.arcgis.com/labs/browse/?topic=any&product=JavaScript) || [Python](https://developers.arcgis.com/labs/browse/?topic=any&product=Python) || [iOS](https://developers.arcgis.com/labs/browse/?topic=any&product=iOS) || [Android](https://developers.arcgis.com/labs/browse/?topic=any&product=Android) || [REST](https://developers.arcgis.com/labs/browse/?topic=any&product=REST-API) || [All](https://developers.arcgis.com/labs/browse/?))_
+_***Note**: The [DevLabs](https://developers.arcgis.com/labs/) are the best place to start, [JS](https://developers.arcgis.com/labs/browse/?topic=any&product=JavaScript) || [Python](https://developers.arcgis.com/labs/browse/?topic=any&product=Python) || [iOS](https://developers.arcgis.com/labs/browse/?topic=any&product=iOS) || [Android](https://developers.arcgis.com/labs/browse/?topic=any&product=Android) || [REST](https://developers.arcgis.com/labs/browse/?topic=any&product=REST-API) || [All](https://developers.arcgis.com/labs/browse/?)_
 
 ### Data Management
 
-_***Note**: ArcGIS can host your data and you can access it via our APIs so you don't have to worry about a backend! We refer to data as [`layers`](https://developers.arcgis.com/documentation/core-concepts/layers/). The links below are for Feature Layers, a common layer type used for data associated with point, line, and polygon geometries._
+_***Note**: ArcGIS can host your data then you can access it via our APIs so you don't have to worry about a backend! We refer to data as [layers](https://developers.arcgis.com/documentation/core-concepts/layers/). The links below are for Feature Layers, a common layer type that represents a **table** with point, line, and polygon [geometries](https://developers.arcgis.com/documentation/core-concepts/features-and-geometries/)._
 
 * Create new table: [With empty schema](https://developers.arcgis.com/labs/arcgisonline/create-a-new-dataset/) || [From file](https://developers.arcgis.com/labs/arcgisonline/import-data/)
 * Upload & host csvs: [Python](https://github.com/mpayson/partner-python-tools/blob/master/bulk_ops/csv_upload.ipynb)
