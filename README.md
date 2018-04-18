@@ -32,7 +32,7 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 
 ### Data
 
-***Note**: Don't worry about a backend! ArcGIS can host your data then you can access it via APIs. We refer to data as [layers](https://developers.arcgis.com/documentation/core-concepts/layers/). The links below are for Feature Layers, a common layer type that represents a **table** with point, line, and polygon [geometries](https://developers.arcgis.com/documentation/core-concepts/features-and-geometries/). This table is then queryable for questions like _"What is within 5 miles?"_
+***Note**: Don't worry about a backend! ArcGIS can host your data then you can access it via APIs. We refer to data as [layers](https://developers.arcgis.com/documentation/core-concepts/layers/). The links below are for Feature Layers, a common layer type that represents a **table** with point, line, and polygon [geometries](https://developers.arcgis.com/documentation/core-concepts/features-and-geometries/). This table is then queryable for questions like, _"What is within 5 miles?"_
 
 * Create new table: [With empty schema](https://developers.arcgis.com/labs/arcgisonline/create-a-new-dataset/) || [From file](https://developers.arcgis.com/labs/arcgisonline/import-data/)
 * Upload & host csvs: [Python](https://github.com/mpayson/partner-python-tools/blob/master/bulk_ops/csv_upload.ipynb)
