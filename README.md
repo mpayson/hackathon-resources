@@ -7,7 +7,6 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 
 <details>
   <summary>
-  
   **Contents**
   
   </summary>
