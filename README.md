@@ -4,8 +4,8 @@
 
 _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 
-## Contents
 
+<details><summary>**Contents**</summary><p>
 * [Activate Account and Credits](#activate-account-and-credits)
 * [Get Started](#get-started)
 * [Workflows](#workflows)
@@ -13,6 +13,7 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 * [Analytics](#analytics)
 * [Helpful Libraries](#helpful-libraries)
 * [Examples](#examples)
+</p></details>
 
 ## Activate Account and Credits
 
