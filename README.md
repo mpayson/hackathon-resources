@@ -6,7 +6,11 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 
 
 <details>
-  <summary>**Contents**</summary>
+  <summary>
+  
+  **Contents**
+  
+  </summary>
 
 * [Activate Account and Credits](#activate-account-and-credits)
 * [Get Started](#get-started)
