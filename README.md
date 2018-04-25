@@ -11,7 +11,7 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 * [Workflows](#workflows)
 * [Hackable Data](#hackable-data)
 * [Analytics](#analytics)
-* [Libraries](#libraries)
+* [Helpful Libraries](#helpful-libraries)
 * [Examples](#examples)
 
 ## Activate Account and Credits
@@ -65,8 +65,9 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 * [Trace Downstream](https://developers.arcgis.com/rest/elevation/api-reference/trace-downstream.htm)
 * [Evaluate Watersheds](https://developers.arcgis.com/rest/elevation/api-reference/watershed.htm)
 
-## Libraries
+## Helpful Libraries
 
+* [Esri Loader](https://github.com/Esri/esri-loader): A tiny library to help load ArcGIS API for JavaScript modules in non-Dojo applications (eg w/ React or Angular)
 * [Koop](https://github.com/koopjs/koop): Translate, query, & integrate any geospatial API
 * [Teraformer](https://github.com/esri/Terraformer): Convert data between WKT, ArcGIS JSON, and GeoJSON
 
