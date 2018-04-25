@@ -35,9 +35,9 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 ***Note**: ArcGIS can host your data then you can access it via our APIs so you don't have to worry about a backend! We refer to data as [layers](https://developers.arcgis.com/documentation/core-concepts/layers/). The links below are for Feature Layers, a common layer type that represents a **table** with point, line, and polygon [geometries](https://developers.arcgis.com/documentation/core-concepts/features-and-geometries/).
 
 * Create new table: [With empty schema](https://developers.arcgis.com/labs/arcgisonline/create-a-new-dataset/) || [From file](https://developers.arcgis.com/labs/arcgisonline/import-data/)
-* Upload & host csvs: [Python](https://github.com/mpayson/partner-python-tools/blob/master/bulk_ops/csv_upload.ipynb)
-* Edit data in hosted services: [Python](https://github.com/mpayson/partner-python-tools/blob/master/bulk_ops/append_data.ipynb) || [ArcGIS Online Viewer](http://doc.arcgis.com/en/arcgis-online/share-maps/manage-hosted-feature-layers.htm#ESRI_SECTION1_E2F5EF6240F246EBA5D238968B63BF97)
-* Bulk geocode csv: [Python](https://github.com/mpayson/partner-python-tools/blob/master/bulk_ops/csv_geocode.ipynb) || [Node](https://github.com/Esri/arcgis-rest-js/tree/master/demos/batch-geocoder-node)
+* Upload & host csvs: [Python](https://github.com/mpayson/partner-python-tools/blob/master/feature_layers/csv_upload.ipynb)
+* Edit data in hosted services: [Python](https://github.com/mpayson/partner-python-tools/blob/master/feature_layers/append_data.ipynb) || [ArcGIS Online Viewer](http://doc.arcgis.com/en/arcgis-online/share-maps/manage-hosted-feature-layers.htm#ESRI_SECTION1_E2F5EF6240F246EBA5D238968B63BF97)
+* Bulk geocode csv: [Python](https://github.com/mpayson/partner-python-tools/blob/master/common/csv_geocode.ipynb) || [Node](https://github.com/Esri/arcgis-rest-js/tree/master/demos/batch-geocoder-node)
 
 ### Design
 
