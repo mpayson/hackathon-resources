@@ -40,7 +40,7 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 ***Note**: Don't worry about a backend! ArcGIS can host your data then you can access it via APIs. We refer to data as [layers](https://developers.arcgis.com/documentation/core-concepts/layers/). The links below are for Feature Layers, a common layer type that represents a **table** with point, line, and polygon [geometries](https://developers.arcgis.com/documentation/core-concepts/features-and-geometries/). This table is then queryable for questions like, _"What is within 5 miles?"_
 
 * Create new table: [With empty schema](https://developers.arcgis.com/labs/arcgisonline/create-a-new-dataset/) || [From file](https://developers.arcgis.com/labs/arcgisonline/import-data/)
-* Upload & host csvs: [Python](https://github.com/mpayson/partner-python-tools/blob/master/feature_layers/csv_upload.ipynb)
+* Upload & host csvs: [Python](https://github.com/mpayson/partner-python-tools/blob/master/feature_layers/csv_upload.ipynb) || [ArcGIS Online viewers](http://doc.arcgis.com/en/arcgis-online/manage-data/publish-features.htm#GUID-DD47C642-38B4-4645-801D-2866FE90BF73)
 * Edit data in hosted services: [Python](https://github.com/mpayson/partner-python-tools/blob/master/feature_layers/append_data.ipynb) || [ArcGIS Online Viewer](http://doc.arcgis.com/en/arcgis-online/share-maps/manage-hosted-feature-layers.htm#ESRI_SECTION1_E2F5EF6240F246EBA5D238968B63BF97)
 * Bulk geocode csv: [Python](https://github.com/mpayson/partner-python-tools/blob/master/common/csv_geocode.ipynb) || [Node](https://github.com/Esri/arcgis-rest-js/tree/master/demos/batch-geocoder-node)
 
