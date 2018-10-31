@@ -58,7 +58,7 @@ _Also find Esri and OS projects on [Github](https://github.com/esri)!_
 
 ## Hackable Data
 
-* *[About](http://www.arcgis.com/features/maps/index.html)*
+* *[About](https://developers.arcgis.com/features/maps-and-data/)*
 * Open Data Portals: [ArcGIS Open Data](http://hub.arcgis.com/pages/open-data) || [ArcGIS Living Atlas](https://livingatlas.arcgis.com/en/) || [Los Angeles Hub](http://geohub.lacity.org/)
 * Common categories: [Imagery](https://livingatlas.arcgis.com/en/browse/#s=0&q=landsat&md=imagery:11111) || [Disaster](http://hub.arcgis.com/datasets?q=Disaster) || [Weather](https://livingatlas.arcgis.com/en/browse/#s=0&q=weather) || [Crime](http://hub.arcgis.com/datasets?q=Crime) || [Sustainability](hub.arcgis.com/datasets?q=Sustainable)
 * 3D Buildings ([explore](https://www.arcgis.com/home/webscene/viewer.html?webscene=08409d3e2d8543ca81217a88f428a502)): [New York City](https://tiles.arcgis.com/tiles/V6ZHFr6zdgNZuVG0/arcgis/rest/services/NYCatt/SceneServer) || [Berlin](https://tiles.arcgis.com/tiles/P3ePLMYs2RVChkJx/arcgis/rest/services/Buildings_Berlin/SceneServer) || [Philadelphia](http://scenesampleserverdev.arcgis.com/arcgis/rest/services/Hosted/Buildings_Philadelphia/SceneServer) || [Valencia](https://services1.arcgis.com/YFraetVkEAF1lMag/arcgis/rest/services/Valencia_3D_v2_local/SceneServer)
